@@ -1,1 +1,4 @@
-"test"
+allow = [
+  "pass1",
+  "pass2"
+]
